@@ -1,0 +1,17 @@
+body{ 
+  margin: 0;
+  background-image: url(/src/assets/img/body.jpg);
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(6, 6, 36);;
+  height: fit-content;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 500;
+  box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
+  padding: 1.4em 1em;
+}
